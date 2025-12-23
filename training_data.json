@@ -1,0 +1,202 @@
+{
+  "perfumes": [
+    {
+      "name": "Floral Dream",
+      "category": "floral",
+      "notes": ["Rose", "Jasmine", "Lily", "Peony"],
+      "price": 45.99,
+      "size": "100ml",
+      "gender": "Women",
+      "season": ["Spring", "Summer"],
+      "description": "A delicate floral bouquet perfect for daytime wear",
+      "best_for": "Romantic occasions and spring events",
+      "questions": ["What is Floral Dream?", "Tell me about Floral Dream", "Describe Floral Dream perfume"],
+      "answers": ["Floral Dream is a delicate floral bouquet with notes of Rose, Jasmine, Lily, and Peony. Perfect for daytime wear.", "It's a floral fragrance priced at $45.99, featuring Rose, Jasmine, Lily, and Peony notes.", "This perfume is a floral scent with Rose, Jasmine, Lily, and Peony notes. Great for spring and daytime events."]
+    },
+    {
+      "name": "Woody Essence",
+      "category": "woody",
+      "notes": ["Sandalwood", "Cedar", "Patchouli", "Vetiver"],
+      "price": 59.99,
+      "size": "100ml",
+      "gender": "Unisex",
+      "season": ["Autumn", "Winter"],
+      "description": "Rich woody fragrance with warm undertones",
+      "best_for": "Evening events and cold weather",
+      "questions": ["What is Woody Essence?", "Tell me about woody perfumes", "Describe Woody Essence"],
+      "answers": ["Woody Essence is a rich woody fragrance with Sandalwood, Cedar, Patchouli, and Vetiver notes. Priced at $59.99.", "It's a woody perfume with warm undertones, featuring Sandalwood, Cedar, Patchouli, and Vetiver.", "This is a unisex woody fragrance perfect for evening wear, priced at $59.99."]
+    },
+    {
+      "name": "Valentino Born in Roma Intense",
+      "category": "woody_amber",
+      "notes": ["Blackcurrant", "Bergamot", "Jasmine", "Vanilla", "Tonka Bean"],
+      "price": 135.00,
+      "size": "100ml",
+      "gender": "Unisex",
+      "season": ["Autumn", "Winter", "Evening"],
+      "description": "A bold, intense fragrance with woody amber notes for confident personalities",
+      "best_for": "Night outs, special occasions, winter evenings",
+      "questions": ["Tell me about Valentino Born in Roma Intense", "What's special about Born in Roma?", "Is Valentino Born in Roma good for men?"],
+      "answers": ["Valentino Born in Roma Intense is a captivating woody amber fragrance with blackcurrant and vanilla notes. Perfect for confident evening wear.", "Born in Roma Intense features unique blackcurrant and bergamot opening with deep woody vanilla drydown. A statement fragrance for bold personalities.", "Yes! It's a unisex fragrance that works exceptionally well for men who want a sophisticated, intense scent for evenings."]
+    },
+    {
+      "name": "Versace Eros",
+      "category": "fresh_woody",
+      "notes": ["Mint", "Green Apple", "Lemon", "Tonka Bean", "Vanilla"],
+      "price": 89.99,
+      "size": "100ml",
+      "gender": "Men",
+      "season": ["Spring", "Summer", "All Year"],
+      "description": "A vibrant, energetic fragrance symbolizing passion and beauty",
+      "best_for": "Night clubs, dates, summer parties",
+      "questions": ["What is Versace Eros like?", "Is Eros good for summer?", "Tell me about Versace Eros"],
+      "answers": ["Versace Eros is a vibrant fresh woody fragrance with mint, green apple and vanilla notes. It's energetic and perfect for nightlife.", "Yes! Eros works great in summer with its fresh mint and citrus notes, though it's versatile enough for year-round wear.", "Versace Eros is a bold, seductive fragrance representing passion. With notes of mint, apple and vanilla, it's ideal for confident individuals."]
+    },
+    {
+      "name": "Bleu de Chanel",
+      "category": "woody_aromatic",
+      "notes": ["Grapefruit", "Lemon", "Ginger", "Sandalwood", "Incense"],
+      "price": 125.00,
+      "size": "100ml",
+      "gender": "Men",
+      "season": ["All Year", "Office", "Formal"],
+      "description": "A timeless classic that redefines masculinity with woody aromatic elegance",
+      "best_for": "Business meetings, formal events, everyday sophistication",
+      "questions": ["What makes Bleu de Chanel special?", "Is Bleu de Chanel good for office?", "Describe Bleu de Chanel"],
+      "answers": ["Bleu de Chanel is a masterpiece of woody aromatic elegance with grapefruit, ginger and sandalwood. It's versatile and sophisticated.", "Absolutely! Bleu de Chanel is the perfect office fragrance - sophisticated, not overwhelming, and works in any professional setting.", "Bleu de Chanel is Chanel's iconic masculine fragrance featuring fresh citrus opening with warm woody drydown. A true classic for the modern man."]
+    },
+    {
+      "name": "Dior Sauvage",
+      "category": "fresh_spicy",
+      "notes": ["Calabrian Bergamot", "Ambroxan", "Sichuan Pepper", "Lavender"],
+      "price": 118.00,
+      "size": "100ml",
+      "gender": "Men",
+      "season": ["All Year", "Evening", "Casual"],
+      "description": "A radically fresh and masculine fragrance inspired by open spaces",
+      "best_for": "Casual outings, dates, everyday wear",
+      "questions": ["Why is Dior Sauvage so popular?", "Is Sauvage good for beginners?", "Tell me about Dior Sauvage"],
+      "answers": ["Dior Sauvage's popularity comes from its incredible freshness with bergamot and ambroxan. It's versatile, mass-appealing, and works everywhere.", "Yes! Sauvage is perfect for beginners - it's easy to wear, universally liked, and appropriate for most occasions.", "Dior Sauvage is a fresh spicy fragrance with intense bergamot and woody ambroxan. Inspired by wild, open spaces under a starry sky."]
+    },
+    {
+      "name": "Giorgio Armani Stronger With You Intensely",
+      "category": "woody_gourmand",
+      "notes": ["Chestnut", "Vanilla", "Rum", "Cedar", "Violet Leaves"],
+      "price": 105.00,
+      "size": "100ml",
+      "gender": "Men",
+      "season": ["Autumn", "Winter", "Evening"],
+      "description": "A warm, addictive gourmand fragrance celebrating connection and warmth",
+      "best_for": "Cold weather, romantic evenings, special dates",
+      "questions": ["What does Stronger With You Intensely smell like?", "Is it good for winter?", "Tell me about Armani Stronger With You"],
+      "answers": ["Stronger With You Intensely smells like warm chestnut, vanilla and rum - like a cozy winter evening by the fireplace.", "Perfect for winter! Its warm, gourmand notes of chestnut and vanilla shine in cold weather and create a comforting aura.", "Giorgio Armani Stronger With You Intensely is a warm woody gourmand with chestnut and vanilla notes. It's intimate, addictive and perfect for close encounters."]
+    },
+    {
+      "name": "Gucci Flora",
+      "category": "floral_fruity",
+      "notes": ["Citrus", "Peony", "Rose", "Osmanthus", "Sandalwood"],
+      "price": 98.00,
+      "size": "100ml",
+      "gender": "Women",
+      "season": ["Spring", "Summer", "Daytime"],
+      "description": "A luminous floral fragrance that captures the beauty of a blooming garden",
+      "best_for": "Daytime events, spring celebrations, romantic dates",
+      "questions": ["Is Gucci Flora feminine?", "What season is Gucci Flora for?", "Describe Gucci Flora perfume"],
+      "answers": ["Gucci Flora is beautifully feminine with peony, rose and citrus notes. It's elegant, fresh and perfect for women who love floral scents.", "Gucci Flora is ideal for spring and summer! Its fresh floral notes bloom beautifully in warm weather and daytime settings.", "Gucci Flora is a luminous floral fragrance with peony, rose and citrus. Inspired by vintage Gucci scarves, it's elegant, fresh and timeless."]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does perfume last?",
+      "answer": "Perfume longevity depends on concentration: Eau de Toilette lasts 3-4 hours, Eau de Parfum lasts 4-6 hours, and Parfum lasts 8+ hours."
+    },
+    {
+      "question": "What's the difference between EDP and EDT?",
+      "answer": "EDP (Eau de Parfum) has 15-20% fragrance oil and lasts longer. EDT (Eau de Toilette) has 5-15% oil and is lighter."
+    },
+    {
+      "question": "How should I store perfume?",
+      "answer": "Store perfume in a cool, dark place away from direct sunlight and temperature changes to preserve its scent."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "We offer 30-day returns on unopened perfumes. Opened items can be returned within 14 days if you're not satisfied."
+    },
+    {
+      "question": "Do you offer samples?",
+      "answer": "Yes! We offer discovery sets with 5-8 sample vials so you can try before committing to a full bottle."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, PayPal, Apple Pay, Google Pay, and offer installment plans through Afterpay."
+    },
+    {
+      "question": "How do I choose my first perfume?",
+      "answer": "Start with our discovery set! Try different fragrance families (floral, woody, fresh) and see what resonates with your personality."
+    },
+    {
+      "question": "What's the best perfume for a gift?",
+      "answer": "Popular gift choices are Bleu de Chanel (for men), Gucci Flora (for women), or our bestselling discovery sets for those unsure."
+    },
+    {
+      "question": "Do you have vegan/cruelty-free options?",
+      "answer": "Yes! Many of our perfumes are cruelty-free. Look for the leaf icon on product pages or ask me for recommendations."
+    },
+    {
+      "question": "How can I make perfume last longer?",
+      "answer": "Apply to pulse points (wrists, neck), moisturize skin first, store properly, and consider layering with matching shower gel/lotion."
+    }
+  ],
+  "intents": [
+    {
+      "name": "greeting",
+      "patterns": ["hello", "hi", "hey", "good morning", "good afternoon", "greetings", "what's up"],
+      "responses": ["Hello! Welcome to our perfume store! How can I help you today?", "Hi there! Looking for a new fragrance today?", "Welcome! I'm here to help you find the perfect perfume."]
+    },
+    {
+      "name": "recommendation",
+      "patterns": ["recommend a perfume", "suggest a fragrance", "what should I buy", "help me choose", "what perfume is best", "can you recommend", "need suggestions"],
+      "responses": ["I'd be happy to recommend a perfume! What type of scents do you prefer?", "Let me suggest some fragrances for you. Do you like floral, woody, or fresh scents?", "I can help you choose! Tell me about your scent preferences or occasion."]
+    },
+    {
+      "name": "price_inquiry",
+      "patterns": ["how much is", "price of", "cost", "what's the price", "how expensive is", "price for", "what does it cost"],
+      "responses": ["I can check the price for you. Which perfume are you interested in?", "Let me look up the price. Which fragrance would you like to know about?", "I'll check the cost for you. What's the name of the perfume?"]
+    },
+    {
+      "name": "season_recommendation",
+      "patterns": ["best perfume for summer", "winter fragrance", "spring scent", "autumn perfume", "what to wear in summer", "cold weather perfume", "hot weather fragrance", "seasonal recommendation"],
+      "responses": ["Great question! For SUMMER: try Versace Eros or Gucci Flora with fresh notes. For WINTER: Giorgio Armani Stronger With You or Valentino Born in Roma Intense. What season are you shopping for?", "Seasonal scents make a difference! Light florals/citrus for spring/summer, warm woods/spices for autumn/winter. Which season interests you?"]
+    },
+    {
+      "name": "occasion_recommendation",
+      "patterns": ["perfume for date", "office fragrance", "night out scent", "wedding perfume", "everyday wear", "special occasion", "business meeting", "casual outing"],
+      "responses": ["For DATES: Versace Eros or Giorgio Armani. For OFFICE: Bleu de Chanel. For SPECIAL EVENTS: Valentino or Dior Sauvage. What's the occasion?", "The perfect scent depends on the occasion! Romantic, professional, or casual - tell me about your event and I'll suggest something perfect."]
+    },
+    {
+      "name": "store_info",
+      "patterns": ["store hours", "when are you open", "location", "where are you", "do you ship", "delivery time", "physical store", "visit store"],
+      "responses": ["We're open 10 AM - 8 PM daily. Our main store is in downtown, but we ship worldwide with 2-5 day delivery. Need specific info?", "We have both online and physical stores! Shipping takes 2-5 business days. What would you like to know about our store?"]
+    },
+    {
+      "name": "fragrance_family",
+      "patterns": ["what are floral perfumes", "woody scents", "citrus fragrance", "fresh perfume", "oriental scent", "gourmand fragrance", "aromatic perfume"],
+      "responses": ["Floral = flower-based (Gucci Flora). Woody = forest notes (Woody Essence). Fresh = clean/citrus (Bleu de Chanel). Which family interests you?", "Fragrance families: Floral (flowers), Woody (woods), Fresh (citrus/aquatic), Oriental (spices), Gourmand (sweet/edible). Want to explore one?"]
+    },
+    {
+      "name": "help",
+      "patterns": ["help", "what can you do", "how to use", "options", "commands", "what questions can I ask"],
+      "responses": ["I can: 1) Recommend perfumes 2) Answer questions 3) Check prices 4) Suggest by season/occasion 5) Explain fragrance types. What would you like?", "Ask me about: Specific perfumes, recommendations by season/occasion, prices, fragrance types, store info, or just chat about scents!"]
+    },
+    {
+      "name": "gender_recommendation",
+      "patterns": ["perfume for men", "women fragrance", "unisex scent", "male perfume", "female perfume", "gift for boyfriend", "gift for girlfriend"],
+      "responses": ["For MEN: Bleu de Chanel, Dior Sauvage, Versace Eros. For WOMEN: Gucci Flora, Floral Dream. UNISEX: Valentino Born in Roma. Who's it for?", "Great question! Many fragrances are unisex now. Are you looking for something traditionally masculine, feminine, or gender-neutral?"]
+    },
+    {
+      "name": "bye",
+      "patterns": ["bye", "goodbye", "see you", "exit", "quit", "thanks bye", "thank you goodbye"],
+      "responses": ["Goodbye! Come back anytime for fragrance advice! 👋", "Thanks for visiting! Hope you found your perfect scent!", "See you soon! Don't hesitate to return for more perfume tips!"]
+    }
+  ]
+}

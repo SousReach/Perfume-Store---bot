@@ -1,0 +1,6 @@
+# Python 3.14 Compatible Perfume AI Bot
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.12.5
+numpy==2.4.0
+python-multipart==0.0.6
